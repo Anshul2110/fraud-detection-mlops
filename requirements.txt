@@ -1,0 +1,27 @@
+# Core ML
+xgboost
+lightgbm
+scikit-learn
+imbalanced-learn       # for SMOTE
+
+# Explainability
+shap
+
+# MLOps
+mlflow
+evidently
+
+# API
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+
+# Data & Utils
+pandas
+numpy
+matplotlib
+seaborn
+pyyaml
+jupyter
