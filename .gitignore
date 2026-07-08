@@ -15,3 +15,5 @@ mlflow/
 
 # OS
 .DS_Store
+
+api/__pycache__
