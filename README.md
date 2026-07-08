@@ -9,7 +9,7 @@ An end-to-end machine learning pipeline for credit card fraud detection, built w
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
 | | |
 |---|---|
